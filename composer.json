@@ -1,6 +1,6 @@
 {
-    "name": "rick20/ibanking",
-    "description": "An automatic way to check the balance and received payment in your bank account.",
+    "name": "wpandu/ibanking",
+    "description": "fork from rick20/ibanking",
     "authors": [
         {
             "name": "Ricky",
