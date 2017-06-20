@@ -1,6 +1,6 @@
 {
-    "name": "wpandu/ibanking",
-    "description": "fork from rick20/ibanking",
+    "name": "rick20/ibanking",
+    "description": "bank crawler",
     "authors": [
         {
             "name": "Ricky",
